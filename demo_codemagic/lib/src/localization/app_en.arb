@@ -1,0 +1,6 @@
+{
+  "appTitle": "demo_codemagic",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
